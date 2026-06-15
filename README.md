@@ -57,7 +57,7 @@ A web-based platform designed to help residents and visitors of Hail discover, s
 
 ### Event Calendar
 
-![Calendar](calendar.jpg)
+![Calendar](calender.jpg)
 
 ### Admin Dashboard
 
