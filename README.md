@@ -45,15 +45,15 @@ A web-based platform designed to help residents and visitors of Hail discover, s
 
 ### Home Page
 
-![Home](home.jpg)
+![Home](homepage.jpg)
 
 ### Search Events
 
-![Search Events](search-events.jpg)
+![Search Events](search.jpg)
 
 ### Event Details
 
-![Event Details](event-details.jpg)
+![Event Details](eventdetails.jpg)
 
 ### Event Calendar
 
@@ -61,7 +61,7 @@ A web-based platform designed to help residents and visitors of Hail discover, s
 
 ### Admin Dashboard
 
-![Admin Dashboard](admin-dashboard.jpg)
+![Admin Dashboard](admindashboard.jpg)
 
 ### Categories
 
