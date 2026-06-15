@@ -45,27 +45,27 @@ A web-based platform designed to help residents and visitors of Hail discover, s
 
 ### Home Page
 
-![Home](home.png)
+![Home](home.jpg)
 
 ### Search Events
 
-![Search Events](search-events.png)
+![Search Events](search-events.jpg)
 
 ### Event Details
 
-![Event Details](event-details.png)
+![Event Details](event-details.jpg)
 
 ### Event Calendar
 
-![Calendar](calendar.png)
+![Calendar](calendar.jpg)
 
 ### Admin Dashboard
 
-![Admin Dashboard](admin-dashboard.png)
+![Admin Dashboard](admin-dashboard.jpg)
 
 ### Categories
 
-![Categories](categories.png)
+![Categories](categories.jpg)
 
 ---
 
