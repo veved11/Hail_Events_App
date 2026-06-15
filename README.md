@@ -1,95 +1,77 @@
 # Hail_Events_App
 
-A web-based platform designed to help residents and visitors of Hail discover, search, and register for local events. The platform provides an interactive event calendar, event categorization, registration management, and an administrative dashboard for organizers and administrators.
+A web-based platform designed to help residents and visitors of Hail discover, search, and register for local events.
 
+---
 
-⸻
+## 🚀 Features
 
+### 👤 User Features
 
-🚀 Features
-👤 User Features
-User registration and login system
-Browse upcoming events
-Search and filter events by category and date
-Interactive event calendar
-View detailed event information
-Register for events
-Save favorite events
-Submit event reviews and ratings
-🛠 Admin Features
-Admin dashboard with analytics
-User management
-Event management
-Category management
-Venue management
-Registration tracking
-Event approval workflow
-Reports and statistics
+- User registration and login
+- Browse upcoming events
+- Search and filter events
+- Interactive event calendar
+- View event details
+- Event registration
+- Save favorite events
+- Submit reviews and ratings
 
+### 🛠 Admin Features
 
-⸻
+- Admin dashboard
+- User management
+- Event management
+- Category management
+- Venue management
+- Registration tracking
+- Event approval workflow
+- Reports and statistics
 
+---
 
-🏗 System Modules
-Home Page
-Provides event discovery, search functionality, and quick access to upcoming activities.
-Event Calendar
-Interactive monthly calendar displaying available events.
-Event Categories
-Organizes events into categories such as:
-Arts & Culture
-Music
-Sports
-Technology
-Education
-Business
-Health & Wellness
-Food & Drink
-Event Details
-Displays:
-Event description
-Date and time
-Venue information
-Capacity
-Ticket pricing
-Reviews and ratings
-Admin Dashboard
-Provides:
-Total Users
-Total Events
-Pending Approvals
-Total Registrations
-Registration monitoring and reporting
+## 💻 Technologies Used
 
+- PHP
+- MySQL
+- HTML5
+- CSS3
+- JavaScript
+- XAMPP
 
-⸻
+---
 
+## 📸 Screenshots
 
-💻 Technologies Used
-PHP
-MySQL
-HTML5
-CSS3
-JavaScript
-XAMPP
+### Home Page
 
+![Home](home.png)
 
-⸻
+### Search Events
 
+![Search Events](search-events.png)
 
-📸 Screenshots
-Home Page
-Search Events
-Event Details
-Event Calendar
-Admin Dashboard
-Event Categories
+### Event Details
 
+![Event Details](event-details.png)
 
-⸻
+### Event Calendar
 
+![Calendar](calendar.png)
 
-📂 Project Structure
+### Admin Dashboard
+
+![Admin Dashboard](admin-dashboard.png)
+
+### Categories
+
+![Categories](categories.png)
+
+---
+
+## 📂 Project Structure
+
+```text
 hail_events/
 ├── api/
 ├── css/
@@ -103,17 +85,16 @@ hail_events/
 ├── events.php
 ├── calendar.php
 └── admin-dashboard.php
+```
 
+---
 
-⸻
+## 🎯 Project Goal
 
+To provide a centralized platform for discovering, organizing, and managing events in Hail City.
 
-🎯 Project Goal
-The goal of this project is to provide a centralized platform for discovering and managing events in Hail City while offering an intuitive experience for users and powerful management tools for administrators.
+---
 
+## 👩‍💻 Author
 
-⸻
-
-
-👩‍💻 Author
-Developed by Ghadi Al-Harbi.
+**Ghadi Al-Harbi**
